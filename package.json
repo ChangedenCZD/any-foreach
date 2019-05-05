@@ -1,9 +1,9 @@
 {
   "name": "any-foreach",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "main": "dist/index.js",
   "author": "Changeden",
-  "description": "可迭代任何内容",
+  "description": "Iterate over anything.Can be break anywhere.可迭代任何内容，可在任意地方中断。",
   "license": "MIT",
   "files": [
     "src",

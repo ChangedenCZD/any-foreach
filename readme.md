@@ -1,5 +1,7 @@
 # any-foreach
-> Iterate over anything.
+> Iterate over anything.Can be break anywhere.
+
+> 可迭代任何内容，可在任意地方中断。
 
 ## Install
 ```cmd
