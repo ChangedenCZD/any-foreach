@@ -1,6 +1,6 @@
 {
   "name": "any-foreach",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "main": "dist/index.js",
   "author": "Changeden",
   "description": "Iterate over anything.Can be break anywhere.可迭代任何内容，可在任意地方中断。",
@@ -26,5 +26,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Chans-Open-Source/any-foreach.git"
-  }
+  },
+  "keywords": [
+    "foreach"
+  ]
 }
